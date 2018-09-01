@@ -1,19 +1,19 @@
 body {
     width: 1200px;
     margin: 0 auto;
-    font-family: 'Sorts Mill Goudy', 'Baskerville', Georgia, serif;
-    font-size: 1.2em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1em;
     text-align: center;
+    background-color: #F0F0F0;
 }
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1.75em;
+    font-size: 2.5em;
     width: 650px;
     margin-top: 3em;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
 
 img {
@@ -21,6 +21,7 @@ img {
     max-height: 800px;
     margin-top: 2em;
     margin: 1em auto;
+    box-shadow: 5px 5px 15px rgba(210, 210, 210, .9);
 }
 
 p {
@@ -28,6 +29,11 @@ p {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    line-height: 1.65em;
+}
+
+#lastp {
+    margin-bottom: 2.5em;
 }
 
 .footer {
