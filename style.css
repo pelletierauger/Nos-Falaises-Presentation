@@ -1,0 +1,38 @@
+body {
+    width: 1200px;
+    margin: 0 auto;
+    font-family: 'Sorts Mill Goudy', 'Baskerville', Georgia, serif;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.75em;
+    width: 650px;
+    margin-top: 3em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+}
+
+img {
+    /*width: 100%;*/
+    max-height: 800px;
+    margin-top: 2em;
+    margin: 1em auto;
+}
+
+p {
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.footer {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 0.75em;
+    margin: 2em 0;
+}
